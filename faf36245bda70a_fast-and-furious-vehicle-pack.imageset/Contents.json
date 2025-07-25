@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "faf36245bda70a_fast-and-furious-vehicle-pack.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
