@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "Squid_Game_Jump_Rope_Game_Recreation_Map_3.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "template-rendering-intent" : "original"
+  }
+}
