@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "Old_Japanese_Town_in_the_Cherry_Biome_3.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "template-rendering-intent" : "original"
+  }
+}

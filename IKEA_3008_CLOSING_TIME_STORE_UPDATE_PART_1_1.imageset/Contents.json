@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "IKEA_3008_CLOSING_TIME_STORE_UPDATE_PART_1_1.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "template-rendering-intent" : "original"
+  }
+}
